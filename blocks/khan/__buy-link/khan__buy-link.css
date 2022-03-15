@@ -1,0 +1,12 @@
+.khan__buy-link {
+  display: inline-block;
+  padding-left: 48px;
+  text-decoration: none;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.khan__buy-link:hover {
+  text-decoration: underline;
+}

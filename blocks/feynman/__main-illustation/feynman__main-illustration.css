@@ -1,0 +1,9 @@
+.feynman__main-illustration {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 867px;
+  height: 637px;
+  background: url(../../../images/feinman.png) center/100% no-repeat;
+  z-index: -1;
+}
