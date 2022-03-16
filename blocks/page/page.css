@@ -1,3 +1,15 @@
+@font-face {
+  src: url("../../fonts/Inter-SemiBold.ttf") format("truetype");
+  font-family: "Inter";
+  font-weight: 600;
+}
+
+@font-face {
+  src: url("../../fonts/Inter-Regular.ttf") format("truetype");
+  font-family: "Inter";
+  font-weight: normal;
+}
+
 .page {
   margin: 0 auto;
   min-width: 1100px;
