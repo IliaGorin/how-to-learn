@@ -1,4 +1,24 @@
 .resources__logo {
+  padding: 0;
+  margin: 0;
   width: 270px;
   height: 38px;
+  list-style-type: none;
+  text-align: center;
+  overflow: hidden;
+}
+
+.resources__logo-zone a:hover {
+  opacity: 50%;
+  transition: opacity linear 0.2s;
+}
+
+.resources__logo-zone a {
+  opacity: 100%;
+  transition: opacity linear 0.2s;
+}
+
+.resources__logo-zone img {
+  object-fit: cover;
+  object-position: center;
 }

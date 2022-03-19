@@ -1,4 +1,6 @@
 .video__iframes {
+  list-style-type: none;
+  padding: 0;
   margin: 0 auto;
   display: flex;
   justify-content: center;

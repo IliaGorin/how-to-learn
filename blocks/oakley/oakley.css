@@ -2,3 +2,9 @@
   padding-top: 160px;
   background-color: #f2f2f2;
 }
+
+.oakley h2 {
+  margin: 0;
+  padding: 0;
+  visibility: hidden;
+}

@@ -4,8 +4,11 @@
   line-height: 18px;
   font-size: 18px;
   font-weight: normal;
+  opacity: 100%;
+  transition: opacity linear 0.2s;
 }
 
 .footer__column-link:hover {
-  text-decoration: underline;
+  opacity: 50%;
+  transition: opacity linear 0.2s;
 }

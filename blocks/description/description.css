@@ -1,3 +1,9 @@
 .description {
   padding-top: 100px;
 }
+
+.description h2 {
+  margin: 0;
+  padding: 0;
+  visibility: hidden;
+}

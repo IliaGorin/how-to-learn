@@ -5,8 +5,12 @@
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
+  color: #2f80ed;
+  opacity: 100%;
+  transition: opacity linear 0.2s;
 }
 
 .khan__buy-link:hover {
-  text-decoration: underline;
+  opacity: 50%;
+  transition: opacity linear 0.2s;
 }
